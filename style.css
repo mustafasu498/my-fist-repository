@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.para1 {
+  background-color: red !important;
+  color: white !important;
+}
+.bgcolor {
+  background-color: gainsboro;
+}
+.flex1 {
+  display: flex;
+  justify-content: space-evenly;
+}
